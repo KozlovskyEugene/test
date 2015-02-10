@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Welcom page
+	Welcom page of WebTest project
 </body>
 </html>
